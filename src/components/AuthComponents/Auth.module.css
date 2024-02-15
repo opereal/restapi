@@ -1,0 +1,16 @@
+.links {
+  color: #fff;
+  display: inline-block;
+}
+
+.login {
+  margin-right: 60px;
+}
+.links a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.submit_btn {
+  width: 100%;
+}
